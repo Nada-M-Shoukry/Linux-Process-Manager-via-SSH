@@ -29,5 +29,10 @@ process management, networking with SSH, and remote development using a Linux vi
 - Working with SSH for secure remote access
 - Using SCP for cross-platform file transfer
 - Hands-on experience with Linux virtual machines
+
+##Demo
+-This video demonstrates the whole project
+[Demo/part3_recording.mp4]
+
 # Linux-Process-Manager-via-SSH
 # Linux-Process-Manager-via-SSH
